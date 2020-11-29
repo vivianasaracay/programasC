@@ -1,0 +1,29 @@
+#include <studio.h>
+#include <stdlib.h>
+main(){
+printf("Hola Mundo");
+}
+
+#include <studio.h>
+#include <stdlib.h>
+main(){
+printf("Hola Mundo");
+}
+
+#include <studio.h>
+#include <stdlib.h>
+main(){
+printf("Hola Mundo");
+}
+
+#include <studio.h>
+#include <stdlib.h>
+main(){
+printf("Hola Mundo");
+}
+
+#include <studio.h>
+#include <stdlib.h>
+main(){
+printf("Hola Mundo");
+}
